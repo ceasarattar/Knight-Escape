@@ -7,3 +7,10 @@
  * The knight should move according to standard chess rules, specifically in an L-shape: two squares in one direction followed by one square perpendicular to the first direction,    or vice versa.
  * The board is populated with black knights, which are static obstacles.
  * Each valid move decreases your score by 5 points, and each invalid move decreases it by 10 points. Start with a score of 500 and aim to keep it as high as possible.
+
+### Features
+ * Chess-based Puzzle: Utilize your understanding of knight movements in chess to solve the puzzle.
+ * Interactive Gameplay: Make moves, reset the board, or exit the game through user inputs.
+ * Score Tracking: Keep an eye on your score, trying to solve the puzzle with minimal valid moves to maintain a high score.
+ * Game Board Display: Visual representation of the game board with the positions of all pieces clearly displayed.
+
