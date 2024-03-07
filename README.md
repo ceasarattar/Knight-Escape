@@ -14,3 +14,10 @@
  * Score Tracking: Keep an eye on your score, trying to solve the puzzle with minimal valid moves to maintain a high score.
  * Game Board Display: Visual representation of the game board with the positions of all pieces clearly displayed.
 
+### How to Play
+1. Start the Game: Run the program to see the initial board setup with the white knight and black knights in their starting positions.
+2. Make a Move: Input 'M' followed by the positions you're moving from and to (e.g., 21 8 to move the knight from position 21 to 8).
+3. Invalid Moves: If a move is invalid (wrong direction, out of bounds, or onto a black knight), the game will prompt you to try again.
+4. Reset the Board: At any point, you can reset the board to its initial state by inputting 'R'.
+5. Exit the Game: Enter 'X' to stop playing and exit the game.
+
